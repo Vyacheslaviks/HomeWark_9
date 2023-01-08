@@ -8,7 +8,7 @@
 Console.Write("Введите число: ");
 int N = InputInt();
 
-Console.Write("натуральные числа: ");
+Console.Write("Натуральные числа: ");
 NaturalNumber(N);
 
 
